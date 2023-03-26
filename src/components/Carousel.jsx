@@ -10,18 +10,18 @@ function Carousel() {
          {/* <!-- Item 1 --> */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
             <span className=" mx-auto absolute text-2xl font-semibold text-white -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 sm:text-3xl dark:text-gray-800">First Slide</span>
-            <img src="https://images.unsplash.com/photo-1622675363311-3e1904dc1885?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVhbSUyMG1lZXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" className="mx-auto absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."/>
+            <img src="https://wallpaperaccess.com/full/4391665.jpg" className="mx-auto absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."/>
         </div>
         {/* <!-- Item 2 --> */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."/>
+            <img src="https://t3.ftcdn.net/jpg/02/82/37/86/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."/>
         </div>
         {/* <!-- Item 3 --> */}
         <div className="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGVhbSUyMG1lZXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..."
+            <img src="https://wallpapercave.com/wp/wp6351120.jpg" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 " alt="..."
             
             />
-            <h1 className='absolute text-5xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 md:text-base'>Looking for IT solutions and Technology Servies</h1>
+            {/* <h1 className='absolute text-3xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 md:text'>Looking for IT solutions and Technology Servies</h1> */}
         </div>
     </div>
     {/* <!-- Slider indicators --> */}
